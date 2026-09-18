@@ -166,18 +166,6 @@ Emerging Technologies
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.screw-handles.dev/?username=sagarparghi1994&theme=dracula&no-frame=true&no-bg=true&margin-w=6)
-
----
-
-# 📈 Contribution Graph
-
-[![Sagar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagarparghi1994\&theme=react-dark)](https://github.com/sagarparghi1994)
-
----
-
 # 💡 Developer Mindset
 
 > **"Technology is not just about writing code — it's about solving problems, improving processes, and creating measurable value."**
