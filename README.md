@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sagar Parghi
-
-<a href="https://github.com/sagarparghi1994">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=IT+Operations+Manager;ERP+%26+CRM+Management;Web+Development;Cloud+%26+Infrastructure;Cybersecurity+%26+Digital+Forensics;AI+%26+Automation;Digital+Transformation" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Sagar+Parghi;IT+Operations+%7C+Cloud+%7C+Cybersecurity;Building+%7C+Automating+%7C+Learning" />
 
 </div>
 
