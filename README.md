@@ -174,7 +174,7 @@ Emerging Technologies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sagarparghi1994&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" />
+[![trophy](https://github-profile-trophy.screw-handles.dev/?username=sagarparghi1994&theme=onedark&no-frame=true&no-bg=true&margin-w=8)](https://github.com/sagarparghi1994)
 
 </div>
 
