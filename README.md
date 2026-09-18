@@ -170,13 +170,9 @@ Emerging Technologies
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.screw-handles.dev/?username=sagarparghi1994&theme=onedark&no-frame=true&no-bg=true&margin-w=8)](https://github.com/sagarparghi1994)
-
-</div>
+![GitHub Trophies](https://github-profile-trophy.screw-handles.dev/?username=sagarparghi1994&theme=dracula&no-frame=true&no-bg=true&margin-w=6)
 
 ---
 
