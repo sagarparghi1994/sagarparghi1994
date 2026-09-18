@@ -1,31 +1,229 @@
-# 💫 About Me:
-I am Sagar Parghi, an IT professional with 8+ years of hands-on experience in IT Operations, ERP/CRM Management, Web Development, Server & System Administration, and Digital Operations. I have practical expertise in PHP, Laravel, WordPress, MySQL, networking, API integration, and business application management. Along with technical operations, I have experience in video editing, graphic design, social media management, AI tools, and automation. I am continuously learning new technologies, with a growing focus on IT Management, Cybersecurity, Digital Forensics, Cloud, AI, and automation. My goal is to take on leadership responsibilities and contribute to an organization's complete IT infrastructure and digital transformation.<br>
+# 👋 Hi, I'm Sagar Parghi
 
+### 🚀 IT Operations Manager | ERP & CRM | Web Development | Cloud | Cybersecurity | Digital Operations
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/U4VGsTJGh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100003292423768) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the_sp_shaab/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagar-parghi-21524a11a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/sagarparghi1994/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SP05) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sagar Parghi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagar.parghi1994@gmail.com) 
+I'm an **IT professional with 8+ years of hands-on experience** across **IT Operations, ERP/CRM Management, Web Development, Server & System Administration, and Digital Operations**.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeIgniter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=plastic&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sagarparghi1994&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sagarparghi1994&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sagarparghi1994&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I work at the intersection of **technology, business operations, and digital transformation** — from managing IT infrastructure and business applications to developing web solutions, automating workflows, and supporting digital initiatives.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sagarparghi1994&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sagarparghi1994&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digital Forensics, Cloud Computing, AI, Automation, and Network Security**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=sagarparghi1994&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/sagarparghi1994) 
+## 🧑‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 💼 **8+ Years** of IT & Digital Operations experience
+* 🖥️ IT Operations, System & Server Administration
+* ⚙️ ERP / CRM Implementation & Management
+* 🌐 PHP & Laravel Web Development
+* 🗄️ MySQL & Database Management
+* ☁️ Cloud Technologies — AWS & Google Cloud
+* 🔌 API Integration & Business Application Management
+* 🌐 Networking & Infrastructure Support
+* 🔐 Exploring Cybersecurity & Digital Forensics
+* 🤖 AI Tools, Automation & Digital Transformation
+* 🎨 Video Editing, Graphic Design & Digital Media
+* 📱 Social Media & Digital Operations
+* 📈 Interested in IT Leadership & Technology Management
+
+### 🎯 Current Focus
+
+**IT Management • Cybersecurity • Digital Forensics • Cloud • AI • Automation • Network Security**
+
+---
+
+# 🛠️ Technical Skills
+
+### 💻 Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+
+### 🗄️ Database & Backend
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge\&logo=apache\&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge\&logo=apachetomcat\&logoColor=black)
+
+### 🌐 Networking & IT Operations
+
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge\&logo=cisco\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+
+**IT Operations • System Administration • Server Management • Network Troubleshooting • ERP Support • CRM Management • Backup & Recovery • User & Access Management • Application Support • API Integration**
+
+### 🎨 Design & Creative Technology
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)
+
+### 🤖 AI & Automation
+
+**AI Tools • Generative AI • AI-assisted Workflows • Prompt Engineering • Process Automation • Digital Transformation**
+
+---
+
+# 🏢 Professional Expertise
+
+```text
+IT Operations
+├── Infrastructure & System Administration
+├── Server Management
+├── Network Support & Troubleshooting
+├── User & Access Management
+└── IT Support & Vendor Coordination
+
+Business Applications
+├── ERP Management
+├── CRM Management
+├── HR & Payroll Systems
+├── Business Process Automation
+└── API Integrations
+
+Web & Software
+├── PHP
+├── Laravel
+├── CodeIgniter
+├── WordPress
+├── MySQL
+└── Custom Business Applications
+
+Digital Operations
+├── Website Management
+├── Social Media Management
+├── Video Production
+├── Graphic Design
+└── Digital Marketing Technology
+
+Emerging Technologies
+├── Cybersecurity
+├── Digital Forensics
+├── Cloud Computing
+├── AI & Automation
+└── Network Security
+```
+
+---
+
+# 🚀 What I Do
+
+🔹 Manage and support **IT infrastructure & business applications**
+
+🔹 Develop and maintain **PHP / Laravel / WordPress-based applications**
+
+🔹 Manage **ERP, CRM and internal business systems**
+
+🔹 Handle **servers, databases, websites and technical operations**
+
+🔹 Integrate **APIs and automate business workflows**
+
+🔹 Troubleshoot **systems, networks and application issues**
+
+🔹 Work with **cloud technologies and modern IT tools**
+
+🔹 Create **digital content, graphics and video solutions**
+
+🔹 Explore **AI-powered automation and productivity solutions**
+
+---
+
+# 📚 Currently Learning
+
+* 🔐 Cybersecurity & Network Security
+* 🛡️ FortiGate Firewall
+* 🔎 Digital Forensics & DFIR
+* ☁️ Cloud Infrastructure
+* 🤖 AI & Intelligent Automation
+* ⚙️ DevOps & Infrastructure Automation
+* 🏢 IT Management & Leadership
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=sagarparghi1994&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img src="https://streak-stats.demolab.com/?user=sagarparghi1994&theme=dracula&hide_border=false" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sagarparghi1994&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sagarparghi1994&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Sagar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagarparghi1994\&theme=react-dark)](https://github.com/sagarparghi1994)
+
+---
+
+# 💡 Developer Mindset
+
+> **"Technology is not just about writing code — it's about solving problems, improving processes, and creating measurable value."**
+
+I believe in continuous learning, practical problem-solving, automation, and using technology to make business operations **simpler, faster, and more scalable**.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sagar-parghi-21524a11a/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/the_sp_shaab/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@SP05)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/profile.php?id=100003292423768)
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge\&logo=pinterest\&logoColor=white)](https://in.pinterest.com/sagarparghi1994/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sagar.parghi1994@gmail.com)
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sagarparghi1994\&style=for-the-badge\&color=blue)
+
+</div>
+
+---
+
+### ⭐ If you find my work useful, feel free to explore my repositories and connect with me.
+
+<!-- Proudly created and customized for Sagar Parghi -->
