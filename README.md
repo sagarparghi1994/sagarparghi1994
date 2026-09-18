@@ -47,11 +47,11 @@ I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digit
 
 </td>
 
-<td width="65%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/sagarparghi1994/sagarparghi1994/main/assets/sagar-cartoon.png"
-     width="500"
-     alt="Sagar Parghi Cartoon"/>
+<img src="./assets/sagar-it-cyber.png"
+     width="450"
+     alt="Sagar Parghi - IT Operations & Cybersecurity"/>
 
 </td>
 </tr>
