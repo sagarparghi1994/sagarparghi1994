@@ -51,6 +51,50 @@ I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digit
 * 📱 Social Media & Digital Operations
 * 📈 Interested in IT Leadership & Technology Management
 
+* <div align="center">
+
+<img src="./assets/it-cyber-animation.svg"
+     width="100%"
+     alt="IT Operations × Cybersecurity">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 👨‍💻 About Me
+
+- 💼 8+ Years of IT & Digital Operations experience
+- 🖥️ IT Operations, System & Server Administration
+- ⚙️ ERP / CRM Implementation & Management
+- 🌐 PHP & Laravel Web Development
+- 🗄️ MySQL & Database Management
+- ☁️ AWS & Google Cloud
+- 🔌 API Integration & Business Applications
+- 🌐 Networking & Infrastructure
+- 🔐 Cybersecurity & Digital Forensics
+- 🤖 AI, Automation & Digital Transformation
+- 🎨 Video Editing & Graphic Design
+- 📱 Social Media & Digital Operations
+- 📈 IT Leadership & Technology Management
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="./assets/sagar-animation.gif"
+     width="400"
+     alt="Sagar Parghi - IT & Cybersecurity">
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
