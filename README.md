@@ -160,11 +160,30 @@ Emerging Technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=sagarparghi1994&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sagarparghi1994&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://streak-stats.demolab.com/?user=sagarparghi1994&theme=dracula&hide_border=false" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarparghi1994&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sagarparghi1994&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=sagarparghi1994&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+<br>
+
+<!-- Contribution Graph -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarparghi1994&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
