@@ -25,21 +25,37 @@ I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digit
 </div>
 ---
 
-## 🧑‍💻 About Me
+<table>
+<tr>
+<td width="65%" valign="top">
 
-* 💼 **8+ Years** of IT & Digital Operations experience
-* 🖥️ IT Operations, System & Server Administration
-* ⚙️ ERP / CRM Implementation & Management
-* 🌐 PHP & Laravel Web Development
-* 🗄️ MySQL & Database Management
-* ☁️ Cloud Technologies — AWS & Google Cloud
-* 🔌 API Integration & Business Application Management
-* 🌐 Networking & Infrastructure Support
-* 🔐 Exploring Cybersecurity & Digital Forensics
-* 🤖 AI Tools, Automation & Digital Transformation
-* 🎨 Video Editing, Graphic Design & Digital Media
-* 📱 Social Media & Digital Operations
-* 📈 Interested in IT Leadership & Technology Management
+## 👨‍💻 About Me
+
+- 💼 **8+ Years of IT & Digital Operations experience**
+- 🖥️ IT Operations, System & Server Administration
+- ⚙️ ERP / CRM Implementation & Management
+- 🌐 PHP & Laravel Web Development
+- 🗄️ MySQL & Database Management
+- ☁️ Cloud Technologies — AWS & Google Cloud
+- 🔌 API Integration & Business Application Management
+- 🌐 Networking & Infrastructure Support
+- 🔐 Exploring Cybersecurity & Digital Forensics
+- 🤖 AI Tools, Automation & Digital Transformation
+- 🎨 Video Editing, Graphic Design & Digital Media
+- 📱 Social Media & Digital Operations
+- 📈 Interested in IT Leadership & Technology Management
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/sagar-cartoon.png"
+     width="320"
+     alt="Sagar Parghi Cartoon"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
