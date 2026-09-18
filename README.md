@@ -160,29 +160,7 @@ Emerging Technologies
 
 <div align="center">
 
-<a href="https://github.com/sagarparghi1994">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarparghi1994&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-</a>
-
-<a href="https://github.com/sagarparghi1994">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarparghi1994&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=sagarparghi1994&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarparghi1994&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
