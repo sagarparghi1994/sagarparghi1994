@@ -201,23 +201,46 @@ I believe in continuous learning, practical problem-solving, automation, and usi
 
 ---
 
-# 🤝 Let's Connect
+---
 
-<div align="center">
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sagar-parghi-21524a11a/)
+<p align="center">
+  <i>Have a project, collaboration idea, or just want to connect?</i>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/the_sp_shaab/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-parghi-21524a11a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/the_sp_shaab/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@SP05">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@SP05)
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100003292423768">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://in.pinterest.com/sagarparghi1994/">
+    <img src="https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="mailto:sagar.parghi1994@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/profile.php?id=100003292423768)
+<p align="center">
+  <br>
+  <b>💻 IT Operations &nbsp; • &nbsp; 🔐 Cybersecurity &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; ⚙️ Automation</b>
+</p>
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge\&logo=pinterest\&logoColor=white)](https://in.pinterest.com/sagarparghi1994/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sagar.parghi1994@gmail.com)
-
-</div>
+<p align="center">
+  <sub>Let's build • secure • automate • grow 🚀</sub>
+</p>
 
 ---
 
