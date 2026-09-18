@@ -1,0 +1,402 @@
+<svg width="100%" viewBox="0 0 1200 600"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020812"/>
+      <stop offset="50%" stop-color="#061525"/>
+      <stop offset="100%" stop-color="#020a12"/>
+    </linearGradient>
+
+    <!-- Blue glow -->
+    <filter id="blueGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Green glow -->
+    <filter id="greenGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid" width="40" height="40"
+             patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40"
+            fill="none"
+            stroke="#0b3550"
+            stroke-width="1"
+            opacity="0.45"/>
+    </pattern>
+
+    <!-- Gradient line -->
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00aaff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00aaff"/>
+      <stop offset="100%" stop-color="#00ffcc" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Radar gradient -->
+    <radialGradient id="radar">
+      <stop offset="0%" stop-color="#00aaff" stop-opacity="0.22"/>
+      <stop offset="70%" stop-color="#0088ff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#00111f" stop-opacity="0"/>
+    </radialGradient>
+
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1200" height="600"
+        rx="25"
+        fill="url(#bg)"/>
+
+  <rect width="1200" height="600"
+        rx="25"
+        fill="url(#grid)"/>
+
+  <!-- BORDER -->
+  <rect x="12" y="12"
+        width="1176"
+        height="576"
+        rx="22"
+        fill="none"
+        stroke="#008cff"
+        stroke-width="2"
+        opacity="0.5"/>
+
+  <!-- TITLE -->
+  <text x="600" y="65"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="32"
+        font-weight="bold"
+        fill="#19bfff"
+        filter="url(#blueGlow)">
+    IT OPERATIONS × CYBERSECURITY
+  </text>
+
+  <!-- ================= LEFT PANEL ================= -->
+
+  <rect x="55" y="145"
+        width="330"
+        height="280"
+        rx="22"
+        fill="#031421"
+        stroke="#009cff"
+        stroke-width="3"
+        filter="url(#blueGlow)"/>
+
+  <text x="220" y="190"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+        fill="#00b7ff">
+    IT OPERATIONS
+  </text>
+
+  <!-- Server -->
+  <rect x="90" y="220"
+        width="260"
+        height="55"
+        rx="10"
+        fill="#06243a"
+        stroke="#009cff"
+        stroke-width="2"/>
+
+  <text x="115" y="255"
+        font-family="monospace"
+        font-size="17"
+        fill="#9fe7ff">
+    SERVER
+  </text>
+
+  <!-- Cloud -->
+  <rect x="90" y="290"
+        width="260"
+        height="55"
+        rx="10"
+        fill="#06243a"
+        stroke="#009cff"
+        stroke-width="2"/>
+
+  <text x="115" y="325"
+        font-family="monospace"
+        font-size="17"
+        fill="#9fe7ff">
+    CLOUD
+  </text>
+
+  <!-- Network -->
+  <rect x="90" y="360"
+        width="260"
+        height="55"
+        rx="10"
+        fill="#06243a"
+        stroke="#009cff"
+        stroke-width="2"/>
+
+  <text x="115" y="395"
+        font-family="monospace"
+        font-size="17"
+        fill="#9fe7ff">
+    NETWORK
+  </text>
+
+  <!-- ================= CENTER RADAR ================= -->
+
+  <circle cx="600"
+          cy="300"
+          r="180"
+          fill="url(#radar)"
+          stroke="#008cff"
+          stroke-width="3"
+          filter="url(#blueGlow)"/>
+
+  <circle cx="600"
+          cy="300"
+          r="115"
+          fill="none"
+          stroke="#0078c8"
+          stroke-width="2"
+          stroke-dasharray="8 8"
+          opacity="0.7"/>
+
+  <circle cx="600"
+          cy="300"
+          r="55"
+          fill="none"
+          stroke="#008cff"
+          stroke-width="2"
+          opacity="0.5"/>
+
+  <!-- RADAR CROSS -->
+  <line x1="420" y1="300"
+        x2="780" y2="300"
+        stroke="#008cff"
+        stroke-width="1"
+        opacity="0.5"/>
+
+  <line x1="600" y1="120"
+        x2="600" y2="480"
+        stroke="#008cff"
+        stroke-width="1"
+        opacity="0.5"/>
+
+  <!-- Animated radar scan -->
+  <line x1="600" y1="300"
+        x2="600" y2="125"
+        stroke="#00ffcc"
+        stroke-width="4"
+        opacity="0.9">
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 600 300"
+      to="360 600 300"
+      dur="4s"
+      repeatCount="indefinite"/>
+  </line>
+
+  <!-- Radar pulse -->
+  <circle cx="600"
+          cy="300"
+          r="30"
+          fill="none"
+          stroke="#00d9ff"
+          stroke-width="3"
+          opacity="0">
+
+    <animate attributeName="r"
+             from="30"
+             to="175"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+
+    <animate attributeName="opacity"
+             from="0.9"
+             to="0"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- DATA DOTS -->
+
+  <circle cx="535" cy="220"
+          r="6"
+          fill="#00d9ff"
+          filter="url(#blueGlow)">
+
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="1.5s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="675" cy="340"
+          r="6"
+          fill="#00ffcc"
+          filter="url(#greenGlow)">
+
+    <animate attributeName="opacity"
+             values="1;0.2;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="650" cy="245"
+          r="5"
+          fill="#00aaff">
+
+    <animate attributeName="r"
+             values="4;8;4"
+             dur="1.8s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ================= RIGHT PANEL ================= -->
+
+  <rect x="815" y="145"
+        width="330"
+        height="280"
+        rx="22"
+        fill="#001a16"
+        stroke="#00ffbf"
+        stroke-width="3"
+        filter="url(#greenGlow)"/>
+
+  <text x="980" y="190"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+        fill="#00ffbf">
+    CYBERSECURITY
+  </text>
+
+  <!-- Shield -->
+  <path d="
+    M980 220
+    L1035 245
+    L1025 320
+    Q980 355 935 320
+    L925 245
+    Z"
+    fill="none"
+    stroke="#00ffbf"
+    stroke-width="5"
+    filter="url(#greenGlow)"/>
+
+  <!-- Lock -->
+  <rect x="958"
+        y="265"
+        width="44"
+        height="40"
+        rx="6"
+        fill="none"
+        stroke="#00ffbf"
+        stroke-width="4"/>
+
+  <path d="
+    M967 265
+    V252
+    Q967 235 980 235
+    Q993 235 993 252
+    V265"
+    fill="none"
+    stroke="#00ffbf"
+    stroke-width="4"/>
+
+  <!-- Security points -->
+
+  <text x="865" y="355"
+        font-family="monospace"
+        font-size="17"
+        fill="#00ffbf">
+    ✓ DETECT
+  </text>
+
+  <text x="865" y="385"
+        font-family="monospace"
+        font-size="17"
+        fill="#00ffbf">
+    ✓ ANALYZE
+  </text>
+
+  <text x="865" y="415"
+        font-family="monospace"
+        font-size="17"
+        fill="#00ffbf">
+    ✓ RESPOND
+  </text>
+
+  <!-- ================= TERMINAL ================= -->
+
+  <rect x="400"
+        y="485"
+        width="400"
+        height="55"
+        rx="10"
+        fill="#021018"
+        stroke="#00ffcc"
+        stroke-width="2"
+        filter="url(#greenGlow)"/>
+
+  <text x="430"
+        y="520"
+        font-family="monospace"
+        font-size="17"
+        fill="#00ffcc">
+    sagar@IT:~$ secure_systems --run
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="735"
+        y="505"
+        width="9"
+        height="20"
+        fill="#00ffcc">
+
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="0.8s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ================= SCANNING LINE ================= -->
+
+  <rect x="25"
+        y="100"
+        width="1150"
+        height="3"
+        fill="url(#scan)"
+        opacity="0.8">
+
+    <animate attributeName="y"
+             values="100;570;100"
+             dur="5s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ================= FOOTER ================= -->
+
+  <text x="600"
+        y="570"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="16"
+        fill="#69cfff">
+    BUILD • DEPLOY • MONITOR • SECURE • AUTOMATE • GROW
+  </text>
+
+</svg>
