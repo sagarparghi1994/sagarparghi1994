@@ -49,7 +49,7 @@ I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digit
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/sagar-cartoon.png"
+<img src="https://raw.githubusercontent.com/sagarparghi1994/sagarparghi1994/main/assets/sagar-cartoon.png"
      width="320"
      alt="Sagar Parghi Cartoon"/>
 
