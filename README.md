@@ -1,12 +1,26 @@
+<div align="center">
+
 # 👋 Hi, I'm Sagar Parghi
 
-### 🚀 IT Operations Manager | ERP & CRM | Web Development | Cloud | Cybersecurity | Digital Operations
+<a href="https://github.com/sagarparghi1994">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=IT+Operations+Manager;ERP+%26+CRM+Management;Web+Development;Cloud+%26+Infrastructure;Cybersecurity+%26+Digital+Forensics;AI+%26+Automation;Digital+Transformation" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
 
 I'm an **IT professional with 8+ years of hands-on experience** across **IT Operations, ERP/CRM Management, Web Development, Server & System Administration, and Digital Operations**.
 
 I work at the intersection of **technology, business operations, and digital transformation** — from managing IT infrastructure and business applications to developing web solutions, automating workflows, and supporting digital initiatives.
 
 I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digital Forensics, Cloud Computing, AI, Automation, and Network Security**.
+
+### 🎯 Current Focus
+
+`IT Management` • `Cybersecurity` • `Digital Forensics` • `Cloud` • `AI` • `Automation` • `Network Security`
 
 ---
 
