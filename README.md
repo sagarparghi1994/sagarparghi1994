@@ -32,6 +32,19 @@ I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digit
      alt="Sagar Parghi - IT Operations and Cybersecurity"/>
 
 </div>
+<div align="center">
+
+<img src="./assets/it-cyber.svg"
+     width="100%"
+     alt="IT Operations × Cybersecurity Animation">
+
+<br><br>
+
+<img src="./assets/sagar-it-cyber.png"
+     width="380"
+     alt="Sagar Parghi">
+
+</div>
 
 ---
 
