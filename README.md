@@ -23,7 +23,7 @@ I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digit
 <img src="./assets/it-cyber-animation.svg" width="100%" alt="IT Operations and Cybersecurity Animation">
 
 </div>
----
+
 
 <table>
 <tr>
