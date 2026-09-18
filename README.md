@@ -10,8 +10,6 @@
 
 ---
 
-## 🚀 About Me
-
 I'm an **IT professional with 8+ years of hands-on experience** across **IT Operations, ERP/CRM Management, Web Development, Server & System Administration, and Digital Operations**.
 
 I work at the intersection of **technology, business operations, and digital transformation** — from managing IT infrastructure and business applications to developing web solutions, automating workflows, and supporting digital initiatives.
@@ -40,9 +38,6 @@ I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digit
 * 📱 Social Media & Digital Operations
 * 📈 Interested in IT Leadership & Technology Management
 
-### 🎯 Current Focus
-
-**IT Management • Cybersecurity • Digital Forensics • Cloud • AI • Automation • Network Security**
 
 ---
 
