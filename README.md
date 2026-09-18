@@ -16,6 +16,16 @@ I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digit
 
 `IT Management` • `Cybersecurity` • `Digital Forensics` • `Cloud` • `AI` • `Automation` • `Network Security`
 
+<br>
+
+<div align="center">
+
+<img src="./assets/it-cyber-animation.svg" width="100%" alt="IT Operations and Cybersecurity Animation">
+
+</div>
+
+<br>
+
 ---
 
 ## 🧑‍💻 About Me
