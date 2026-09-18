@@ -27,7 +27,7 @@ I'm continuously expanding my expertise in **IT Management, Cybersecurity, Digit
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="65%" valign="top">
 
 ## 👨‍💻 About Me
 
