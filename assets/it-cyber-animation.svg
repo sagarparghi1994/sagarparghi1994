@@ -1,0 +1,340 @@
+<svg width="100%" height="220" viewBox="0 0 1000 220"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="50%" stop-color="#0b1628"/>
+      <stop offset="100%" stop-color="#071a18"/>
+    </linearGradient>
+
+    <!-- IT Blue -->
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00b7ff"/>
+      <stop offset="100%" stop-color="#5b8cff"/>
+    </linearGradient>
+
+    <!-- Cyber Green -->
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff9d"/>
+      <stop offset="100%" stop-color="#00c878"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glowBlue">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowGreen">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid" width="25" height="25"
+             patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25"
+            fill="none"
+            stroke="#1c3550"
+            stroke-width="0.6"
+            opacity="0.45"/>
+    </pattern>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="220" rx="18"
+        fill="url(#bg)"/>
+
+  <rect width="1000" height="220" rx="18"
+        fill="url(#grid)"/>
+
+  <!-- Moving scanning line -->
+  <rect x="0" y="0" width="3" height="220"
+        fill="#00e5ff"
+        opacity="0.7"
+        filter="url(#glowBlue)">
+
+    <animate attributeName="x"
+             from="0"
+             to="1000"
+             dur="5s"
+             repeatCount="indefinite"/>
+
+  </rect>
+
+
+  <!-- LEFT: IT OPERATIONS -->
+
+  <text x="210" y="42"
+        text-anchor="middle"
+        fill="#55c8ff"
+        font-family="monospace"
+        font-size="23"
+        font-weight="bold">
+
+    IT OPERATIONS
+
+    <animate attributeName="opacity"
+             values="1;0.6;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- Server -->
+
+  <g transform="translate(75 65)"
+     stroke="#35bfff"
+     fill="none"
+     stroke-width="2"
+     filter="url(#glowBlue)">
+
+    <rect width="120" height="85" rx="8"/>
+
+    <line x1="15" y1="28" x2="105" y2="28"/>
+    <line x1="15" y1="55" x2="105" y2="55"/>
+
+    <circle cx="25" cy="15" r="3"
+            fill="#35bfff"/>
+
+    <circle cx="25" cy="42" r="3"
+            fill="#35bfff"/>
+
+    <circle cx="25" cy="69" r="3"
+            fill="#35bfff"/>
+
+  </g>
+
+
+  <!-- Network Nodes -->
+
+  <g stroke="#35bfff"
+     fill="#35bfff"
+     stroke-width="2"
+     filter="url(#glowBlue)">
+
+    <line x1="195" y1="80" x2="275" y2="105"/>
+    <line x1="195" y1="130" x2="275" y2="105"/>
+
+    <circle cx="195" cy="80" r="5"/>
+    <circle cx="195" cy="130" r="5"/>
+    <circle cx="275" cy="105" r="7"/>
+
+  </g>
+
+
+  <!-- Code -->
+
+  <text x="95" y="178"
+        fill="#4dbfff"
+        font-family="monospace"
+        font-size="13">
+
+    &lt;/&gt; BUILD • DEPLOY • MONITOR
+
+    <animate attributeName="opacity"
+             values="0.5;1;0.5"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- CENTER CONNECTION -->
+
+  <line x1="330" y1="105"
+        x2="670" y2="105"
+        stroke="#5c6f82"
+        stroke-width="2"
+        stroke-dasharray="8 8">
+
+    <animate attributeName="stroke-dashoffset"
+             from="0"
+             to="-32"
+             dur="1s"
+             repeatCount="indefinite"/>
+
+  </line>
+
+
+  <!-- Central pulse -->
+
+  <circle cx="500" cy="105"
+          r="15"
+          fill="none"
+          stroke="#ffffff"
+          stroke-width="2"
+          opacity="0.7">
+
+    <animate attributeName="r"
+             values="10;35;10"
+             dur="2s"
+             repeatCount="indefinite"/>
+
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- CENTER TEXT -->
+
+  <text x="500" y="91"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="monospace"
+        font-size="14"
+        font-weight="bold">
+
+    SECURE
+
+  </text>
+
+  <text x="500" y="125"
+        text-anchor="middle"
+        fill="#9aa9ba"
+        font-family="monospace"
+        font-size="11">
+
+    EVERY SYSTEM • EVERY CONNECTION
+
+  </text>
+
+
+  <!-- RIGHT: CYBERSECURITY -->
+
+  <text x="790" y="42"
+        text-anchor="middle"
+        fill="#00ff9d"
+        font-family="monospace"
+        font-size="23"
+        font-weight="bold">
+
+    CYBERSECURITY
+
+    <animate attributeName="opacity"
+             values="1;0.6;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- Shield -->
+
+  <g transform="translate(735 62)"
+     filter="url(#glowGreen)">
+
+    <path d="M55 0
+             L105 20
+             L95 72
+             Q55 105 15 72
+             L5 20 Z"
+
+          fill="none"
+          stroke="#00ff9d"
+          stroke-width="4"/>
+
+    <!-- Lock -->
+
+    <rect x="38"
+          y="42"
+          width="34"
+          height="27"
+          rx="4"
+          fill="none"
+          stroke="#00ff9d"
+          stroke-width="3"/>
+
+    <path d="M45 42
+             V33
+             Q55 20 65 33
+             V42"
+
+          fill="none"
+          stroke="#00ff9d"
+          stroke-width="3"/>
+
+    <circle cx="55"
+            cy="54"
+            r="3"
+            fill="#00ff9d"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      values="1;1.04;1"
+      dur="2s"
+      repeatCount="indefinite"
+      additive="sum"/>
+
+  </g>
+
+
+  <!-- Cyber Network -->
+
+  <g stroke="#00ff9d"
+     fill="#00ff9d"
+     stroke-width="2"
+     filter="url(#glowGreen)">
+
+    <line x1="680" y1="80"
+          x2="735" y2="100"/>
+
+    <line x1="680" y1="130"
+          x2="735" y2="105"/>
+
+    <circle cx="680" cy="80" r="5"/>
+    <circle cx="680" cy="130" r="5"/>
+
+  </g>
+
+
+  <!-- Security text -->
+
+  <text x="745" y="178"
+        fill="#00ff9d"
+        font-family="monospace"
+        font-size="13">
+
+    DETECT • DEFEND • RESPOND
+
+    <animate attributeName="opacity"
+             values="0.5;1;0.5"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- Bottom line -->
+
+  <line x1="50" y1="205"
+        x2="950" y2="205"
+        stroke="#26384b"
+        stroke-width="1"/>
+
+  <text x="500" y="215"
+        text-anchor="middle"
+        fill="#65798c"
+        font-family="monospace"
+        font-size="9">
+
+    IT • CLOUD • NETWORK • SECURITY • AUTOMATION • DIGITAL FORENSICS
+
+  </text>
+
+</svg>
